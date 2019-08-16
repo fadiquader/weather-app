@@ -2,4 +2,4 @@
 permalink: /index.html
 ---
 ## Visit
-https://fadiquader.github.io/weather-app/
+https://weather-mckcifbdim.now.sh/
